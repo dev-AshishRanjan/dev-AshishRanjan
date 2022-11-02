@@ -5,8 +5,6 @@
 
 [![@ashishranjan's Holopin board](https://holopin.me/ashishranjan)](https://holopin.io/@ashishranjan)'
 
-[![Badge](https://cp-logo.vercel.app/codechef/ashish_ranjan9?logo=true)]
-
 - 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [github.com./dev-AshishRanjan](github.com./dev-AshishRanjan)
