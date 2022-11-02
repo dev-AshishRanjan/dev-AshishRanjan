@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-ashishranjan" alt="dev-ashishranjan" /></a> </p>
 
-[![@ashishranjan's Holopin board](https://holopin.me/ashishranjan)](https://holopin.io/@ashishranjan)
+[![@ashishranjan's Holopin board](https://holopin.me/ashishranjan)](https://holopin.io/@ashishranjan)'
+
+[![Badge](https://cp-logo.vercel.app/codechef/ashish_ranjan9?logo=true)]
 
 - 🌱 I’m currently learning **NextJS**
 
