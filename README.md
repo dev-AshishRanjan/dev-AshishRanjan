@@ -12,7 +12,7 @@
 - 💬 Ask me about **React,CSS,SASS**
 
 - 📫 How to reach me **kumarashishranjan.ofc@gmail.com**
-- Here is my updated [Resume(https://drive.google.com/file/d/1795-bPLhuq_wg6hPSvQJW-NLDXtxB0Vs/view?usp=sharing)]
+- Here is my updated [Resume](https://drive.google.com/file/d/1795-bPLhuq_wg6hPSvQJW-NLDXtxB0Vs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
