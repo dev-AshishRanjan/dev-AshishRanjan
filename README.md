@@ -19,6 +19,11 @@
 <a href="https://fb.com/rastrashastra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rastrashastra" height="30" width="40" /></a>
 <a href="https://instagram.com/kr.ashishranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kr.ashishranjan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kumar_ashish_ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumar_ashish_ranjan" height="30" width="40" /></a>
+  <a href="https://www.npmjs.com/~dev-ashishranjan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg" alt="kumar_ashish_ranjan" height="30" width="40" /></a>
+  <a href="https://addons.mozilla.org/en-GB/firefox/user/17796356/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mozilla.svg" alt="kumar_ashish_ranjan" height="30" width="40" /></a>
+   <a href="https://codesandbox.io/u/dev-AshishRanjan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="kumar_ashish_ranjan" height="30" width="40" /></a>
+  
+<!--   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='npm' height='40'>](https://www.npmjs.com/~dev-ashishranjan)   -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
