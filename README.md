@@ -35,8 +35,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ashishranjan&" alt="dev-ashishranjan" /></p>
 
-<img width="300" align="right" alt="giphy.gif" src="giphy.gif" />
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mmyqnhsqtejwkhogv77raqzfgu&cover_image=true&theme=default&show_offline=false&background_color=554444&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mmyqnhsqtejwkhogv77raqzfgu&redirect=true) -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img width="300" align="center" alt="giphy.gif" src="giphy.gif" />
