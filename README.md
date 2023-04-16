@@ -11,7 +11,7 @@
 - 🤝 I'm looking to team-up for ... Hackathons, coding events and projects
 - 💬 Ask me about **React,CSS,SASS**
 - 📫 How to reach me **kumarashishranjan.ofc@gmail.com**
-- Get my updated [Resume](https://drive.google.com/file/d/1795-bPLhuq_wg6hPSvQJW-NLDXtxB0Vs/view?usp=sharing)
+- Get my updated [Resume](https://drive.google.com/file/d/1ijBm1tlx0YSaLPrBFogB6jbGrg95DGEv/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
