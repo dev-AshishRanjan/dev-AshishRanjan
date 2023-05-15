@@ -40,3 +40,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img width="300" align="center" alt="giphy.gif" src="giphy.gif" />
+[![dev-AshishRanjan's GitHub | Topics](https://stats.quine.sh/dev-AshishRanjan/topics-over-time?theme=light)](https://quine.sh)
