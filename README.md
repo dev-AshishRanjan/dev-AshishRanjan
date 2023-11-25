@@ -38,7 +38,7 @@
 
 # GitHub Profile Summary
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to see stats</summary>
 <br>
 <br>
 <div align="center">
