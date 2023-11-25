@@ -37,6 +37,8 @@
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mmyqnhsqtejwkhogv77raqzfgu&cover_image=true&theme=default&show_offline=false&background_color=554444&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mmyqnhsqtejwkhogv77raqzfgu&redirect=true) -->
 
 # GitHub Profile Summary
+<details>
+  <summary>Click to expand</summary>
 <br>
 <br>
 <div align="center">
@@ -48,15 +50,14 @@
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ashishranjan&theme=vue" alt="dev-ashishranjan" /></p>
   <br>
 </div>
+</details>
 
-----
 <br>
 <br>
 <div align="center">
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
 <br>
-
 
 <!--   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-AshishRanjan&theme=transparent)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-AshishRanjan&theme=transparent)
