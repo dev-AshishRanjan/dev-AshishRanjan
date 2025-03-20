@@ -10,9 +10,10 @@
 - 👯 I’m looking to collaborate on ... Any Open Source Project 
 - 🤝 I'm looking to team-up for ... Hackathons, coding events and projects
 - 💬 Ask me about **React,CSS,SASS**
-- 📫 How to reach me **kumarashishranjan.ofc@gmail.com**
-- Get my updated [Resume](https://drive.google.com/file/d/1ijBm1tlx0YSaLPrBFogB6jbGrg95DGEv/view?usp=share_link)
+<!--   - 📫 How to reach me **kumarashishranjan.ofc@gmail.com**
+- Get my updated [Resume](https://drive.google.com/file/d/1ijBm1tlx0YSaLPrBFogB6jbGrg95DGEv/view?usp=share_link)   -->
 
+<!--   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kumar-ashish-ranjan-6359b7233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/kumar-ashish-ranjan-6359b7233/" height="30" width="40" /></a>
@@ -22,6 +23,8 @@
   <a href="https://www.npmjs.com/~dev-ashishranjan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg" alt="kumar_ashish_ranjan" height="30" width="40" /></a>
   <a href="https://addons.mozilla.org/en-GB/firefox/user/17796356/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mozilla.svg" alt="kumar_ashish_ranjan" height="30" width="40" /></a>
    <a href="https://codesandbox.io/u/dev-AshishRanjan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="kumar_ashish_ranjan" height="30" width="40" /></a>
+
+     -->
   
 <!--   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='npm' height='40'>](https://www.npmjs.com/~dev-ashishranjan)   -->
 </p>
